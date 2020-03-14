@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #31353b50;
+}
+
+canvas {
+  position: absolute;
+}
+
+video {
+  box-shadow: 15px 8px 12px rgba(0, 0, 0, 0.4);
+}
